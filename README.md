@@ -19,5 +19,4 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 ![preview](./preview.png/)
-[Click here to access project](https://calculadora-imc-alpha.vercel.app/)
 > **Objective:** Create a Weather APP.
